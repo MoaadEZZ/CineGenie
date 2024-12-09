@@ -1,0 +1,5 @@
+pandas
+sentence-transformers
+openai 
+transformers 
+scikit-learn

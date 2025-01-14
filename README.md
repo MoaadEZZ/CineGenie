@@ -1,2 +1,2 @@
-# CineGenie :)
-:(
+# CineGenie
+
